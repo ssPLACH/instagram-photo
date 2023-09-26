@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+img {
+    width: 100%;
+    margin: 0px;
+    padding: 4px 0px;
+
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    border-color: lightgrey;
+    border-style: solid;
+    padding: 5px 5px;
+}
+body {
+    width: 500px;
+    background-color: rgb(239, 237, 237);
+}
+#numero {
+    color: darkgray;
+}
+.feed {
+    background-color: white;
+    margin-bottom: 80px;
+    max-width: 500px;
+}
+.footer {
+    margin: 0px;
+    border-color: lightgrey;
+    border-style: solid;
+    padding: 5px 5px;
+}
